@@ -1,0 +1,4 @@
+mix new cards
+mix deps.get
+
+iex -S mix
